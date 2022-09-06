@@ -1,1 +1,1 @@
-0x02. Shell, I/O Redirections and filters
+Write a script that prints the absolute path name of the current working directory.
